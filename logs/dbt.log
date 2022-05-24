@@ -1,0 +1,18 @@
+
+
+============================== 2022-05-24 19:49:50.954694 | 9c4fbfbd-9b0e-4161-a54c-8fdfe6a447c8 ==============================
+19:49:50.954713 [info ] [MainThread]: Running with dbt=1.1.0
+19:49:50.955298 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': '/home/ricardo_camilos/.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+19:49:50.955674 [debug] [MainThread]: Tracking: tracking
+19:49:50.961470 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f112e5e21c0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f112e5e22b0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f112e5e23a0>]}
+19:49:56.841635 [debug] [MainThread]: Starter project path: /usr/local/lib/python3.9/dist-packages/dbt/include/starter_project
+19:50:09.721306 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f112e5f0640>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f112e5f04c0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f112e5f0610>]}
+
+
+============================== 2022-05-24 19:50:19.438587 | e05f0a58-ea86-44f7-81b7-c0aa17ec453b ==============================
+19:50:19.438607 [info ] [MainThread]: Running with dbt=1.1.0
+19:50:19.439202 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': '/home/ricardo_camilos/.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+19:50:19.439547 [debug] [MainThread]: Tracking: tracking
+19:50:19.445952 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fa04f044250>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fa04f044490>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fa04f0442e0>]}
+19:50:24.416710 [info ] [MainThread]: A project called bella_beat already exists here.
+19:50:24.417679 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fa04f044370>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fa04f044520>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fa04f0449d0>]}
